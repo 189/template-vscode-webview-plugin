@@ -8,6 +8,7 @@ Project was inspired by:
 - [Reactception : extending a VS Code extension with Webviews and React](https://medium.com/younited-tech-blog/reactception-extending-vs-code-extension-with-webviews-and-react-12be2a5898fd)
 - [vscode-webview-react](https://github.com/rebornix/vscode-webview-react)
 - [VSCode Webview API](https://code.visualstudio.com/api/extension-guides/webview)
+- [vscode-webview-react-boilerplate](https://github.com/hacker0limbo/vscode-webview-react-boilerplate)
 
 ## Development
 
